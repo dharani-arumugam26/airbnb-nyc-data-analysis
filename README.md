@@ -77,3 +77,18 @@ The project follows a structured data analysis pipeline consisting of three majo
 - Correlation analysis revealed **weak relationships among most numerical variables**, suggesting that listing prices are influenced more by location and room type than by review or availability metrics.
 - A small number of hosts managed a disproportionately large number of listings, highlighting the presence of professional hosts alongside individual property owners.
 - Listing availability and minimum stay requirements varied across neighbourhoods and room types, reflecting different hosting strategies and market demand.
+
+---
+
+## Repository Structure
+
+```
+airbnb-nyc-data-analysis/
+│
+├── 01_Data_Understanding_Assessment.ipynb
+├── 02_Data_Cleaning.ipynb
+├── 03_Exploratory_Data_Analysis.ipynb
+├── airbnb_cleaned.csv
+├── README.md
+└── LICENSE
+```
