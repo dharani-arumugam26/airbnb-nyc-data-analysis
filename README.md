@@ -92,3 +92,19 @@ airbnb-nyc-data-analysis/
 ├── README.md
 └── LICENSE
 ```
+
+---
+
+## Skills Demonstrated
+
+This project demonstrates the following data analytics skills:
+
+- Data Understanding & Quality Assessment
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Statistical Analysis
+- Business Insight Generation
+- Python Programming
+- Data Storytelling
+- Git & GitHub Version Control
