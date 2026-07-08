@@ -117,3 +117,21 @@ The dataset used in this project is publicly available on Kaggle:
 
 **Airbnb NYC Open Data**  
 https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
+
+---
+
+## Future Improvements
+
+Potential enhancements for this project include:
+
+- Building an interactive Power BI dashboard to visualize key insights.
+- Performing geospatial analysis using latitude and longitude data.
+- Developing predictive models for Airbnb listing prices.
+- Creating an interactive dashboard using Streamlit or Tableau.
+- Conducting time-based trend analysis using review dates.
+
+---
+
+## Conclusion
+
+This project demonstrates a complete end-to-end data analysis workflow, beginning with data understanding and assessment, followed by data cleaning and exploratory data analysis. Through statistical analysis and visualization, the project uncovers meaningful insights into Airbnb pricing, neighbourhood trends, host activity, and customer engagement. The findings provide valuable business insights while showcasing practical data analytics skills using Python and its data science ecosystem.
