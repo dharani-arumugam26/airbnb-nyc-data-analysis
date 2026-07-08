@@ -56,3 +56,13 @@ The project follows a structured data analysis pipeline consisting of three majo
 - Performed univariate, bivariate, and multivariate analyses.
 - Identified trends in pricing, room types, neighbourhoods, availability, and host activity.
 - Generated business insights through statistical analysis and data visualization.
+
+---
+
+## Tools & Technologies Used
+
+- **Programming Language:** Python
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Development Environment:** Jupyter Notebook
+- **Version Control:** Git & GitHub
+- **Dataset Format:** CSV
