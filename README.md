@@ -66,3 +66,14 @@ The project follows a structured data analysis pipeline consisting of three majo
 - **Development Environment:** Jupyter Notebook
 - **Version Control:** Git & GitHub
 - **Dataset Format:** CSV
+
+---
+
+## Key Findings
+
+- **Manhattan** consistently recorded the highest average Airbnb listing prices, particularly for entire homes and apartments.
+- **Entire homes/apartments** were the most expensive room type across all neighbourhood groups, while shared rooms were the most affordable.
+- The majority of Airbnb listings were concentrated in **Manhattan** and **Brooklyn**, indicating these are the city's primary short-term rental markets.
+- Correlation analysis revealed **weak relationships among most numerical variables**, suggesting that listing prices are influenced more by location and room type than by review or availability metrics.
+- A small number of hosts managed a disproportionately large number of listings, highlighting the presence of professional hosts alongside individual property owners.
+- Listing availability and minimum stay requirements varied across neighbourhoods and room types, reflecting different hosting strategies and market demand.
