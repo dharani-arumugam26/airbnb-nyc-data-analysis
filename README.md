@@ -108,3 +108,12 @@ This project demonstrates the following data analytics skills:
 - Python Programming
 - Data Storytelling
 - Git & GitHub Version Control
+
+---
+
+## Dataset Source
+
+The dataset used in this project is publicly available on Kaggle:
+
+**Airbnb NYC Open Data**  
+https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
